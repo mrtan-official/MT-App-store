@@ -17,15 +17,7 @@ Whether you're a power user or just love cool tools — this is your go-to repo!
 
 ---
 
-## 🚀 Features
 
-- 🔥 Stylish dark blue & red hacking-style UI
-- 📦 Collection of APKs & open source Android tools
-- 🛠️ Source code included for each app
-- 🧪 Actively maintained with frequent updates
-- 🤝 Community contributions welcome
-
----
 
 
 
