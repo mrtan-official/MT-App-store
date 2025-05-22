@@ -3,7 +3,7 @@
 **Your Ultimate Android App Repository — Fast, Stylish & Open Source.**  
 Made by **Mr. Tan** | Powered by **Death Cyber Army**
 
-![badge](https://img.shields.io/badge/MT--App--Store-Dark%20Blue%20%2B%20Red%20Style-black?logo=android&logoColor=green)
+![badge](https://img.shields.io/badge/MT--App--Store-%20%2B%20Style-black?logo=android&logoColor=green)
 ![license](https://img.shields.io/github/license/Tan-vai/MT-App-store-)
 
 ---
