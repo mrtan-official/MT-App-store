@@ -14,9 +14,17 @@ MT App Store is a curated collection of custom Android apps developed and mainta
 Whether you're a power user or just love cool tools — this is your go-to repo!
 
 
+## ⚠️ Notice
+
+These apps are not hosted on the Google Play Store due to:
+
+- Privacy or root access usage
+- Pen-testing or hacking features
+- Play Store policy restrictions
+
+Install at your own risk. Always scan APKs before use and enable `Install from Unknown Sources` from Android settings.
 
 ---
-
 
 
 
