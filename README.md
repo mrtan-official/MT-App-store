@@ -4,7 +4,7 @@
 Made by **Mr. Tan** | Powered by **Death Cyber Army**
 
 ![badge](https://img.shields.io/badge/MT--App--Store-%20-black?logo=android&logoColor=green)
-![license](https://img.shields.io/github/license/Tan-vai/MT-App-store-)
+![license](https://img.shields.io/github/license/Tan-vai/MT-App-store)
 
 ---
 
