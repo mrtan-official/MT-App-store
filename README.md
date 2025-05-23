@@ -24,7 +24,9 @@ where you can find and download various 3rd party APKs in one place. No more sea
 
 - Click any APK file name & press **CTRL+SHIFT+S** to start downloading.
 - ![Download Instruction](Instraction/Screenshot_1.png)
+  
 - ![Download Instruction](Instraction/Image.png)
+  
 - ![Download Instruction](Instraction/Image2.png)
 
 Install at your own risk. Always scan APKs before use and enable `Install from Unknown Sources` from Android settings.
