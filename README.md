@@ -20,13 +20,20 @@ where you can find and download various 3rd party APKs in one place. No more sea
 - Always scan APKs before installing and enable Install from Unknown Sources on your device.
 
 ---
-How to Download:*
+*How to Download:*
 
 -Click any APK file name & press **CTRL+SHIFT+S** to start downloading.  
 -If you are android user Click APK file and 
 
 
 Install at your own risk. Always scan APKs before use and enable `Install from Unknown Sources` from Android settings.
+
+---
+*Want to Contribute?*
+
+1. Fork this repo
+2. Add new apps/features
+3. Submit a pull request
 
 ---
 
