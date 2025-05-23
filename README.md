@@ -10,17 +10,21 @@ Made by **Mr. Tan** | Powered by **Death Cyber Army**
 
 ## 🧠 About MT App Store
 
-MT App Store is a curated collection of custom Android apps developed and maintained by **Mr. Tan** and contributors from the Death Cyber Army.  
-Whether you're a power user or just love cool tools — this is your go-to repo!
+MT App Store is a curated collection of custom Android apps  repository  by **Mr. Tan** and contributors from the Death Cyber Army.  
+where you can find and download various 3rd party APKs in one place. No more searching multiple sites—just grab your favorite APKs from here!
 
 
-## ⚠️ Notice
+*⚠️ Disclaimer:*
 
-These apps are not hosted on the Google Play Store due to:
+- Some apps here are not available on Google Play due to privacy, root access, or special features.
+- Always scan APKs before installing and enable Install from Unknown Sources on your device.
 
-- Privacy or root access usage
-- Pen-testing or hacking features
-- Play Store policy restrictions
+---
+How to Download:*
+
+-Click any APK file name & press **CTRL+SHIFT+S** to start downloading.  
+-If you are android user Click APK file and 
+
 
 Install at your own risk. Always scan APKs before use and enable `Install from Unknown Sources` from Android settings.
 
