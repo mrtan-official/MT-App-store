@@ -23,10 +23,10 @@ where you can find and download various 3rd party APKs in one place. No more sea
 *How to Download:*
 
 - Click any APK file name & press **CTRL+SHIFT+S** to start downloading.
-<p align="center">
-  <img src="Instraction/Screenshot_1.png" alt="Step 1" height="250em"/>
-  <img src="Instraction/Image.png" alt="Step 2" height="250em"/>
-  <img src="Instraction/pic.png" alt="Step 3" height="250em"/>
+<p align="left">
+  <img src="Instraction/Screenshot_1.png" alt="Step 1" height="200em"/>
+  <img src="Instraction/Image.png" alt="Step 2" height="200em"/>
+  <img src="Instraction/pic.png" alt="Step 3" height="200em"/>
 </p>
 
 
