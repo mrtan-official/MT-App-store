@@ -54,15 +54,6 @@ This file contains a list of all apps, tools, and files available in the MT App 
 | `SQLMap Command Generator.lnk` | Shortcut | Shortcut for SQLMap command generator       |
 | `name_ck.exe`              | EXE      | Tool for checking or analyzing names          |
 
----
-
-#### 📄 Documentation Files
-
-| File Name     | Description                                 |
-|---------------|---------------------------------------------|
-| `Applist.md`  | This app list (you’re reading it now)       |
-| `README.md`   | Project overview and usage instructions      |
-| `SECURITY.md` | Security policies and guidelines             |
 
 ---
 
