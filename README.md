@@ -53,6 +53,9 @@ This file contains a list of all apps, tools, and files available in the MT App 
 | `MT_Downloader_Bot.exe`    | EXE      | Telegram bot for downloading videos and songs |
 | `SQLMap Command Generator.lnk` | Shortcut | Shortcut for SQLMap command generator       |
 | `name_ck.exe`              | EXE      | Tool for checking or analyzing names          |
+| `Bomb.exe`              | EXE      | Tool for Bombing social massaging platform          |
+| `autosave.exe`              | EXE      | Tool for autosaving file         |
+
 
 
 ---
